@@ -1,0 +1,7 @@
+num_words : 1000
+random_state : 42
+n_estimators_rf : 100
+n_estimators_ada : 500
+learning_rate_ada : 0.1
+class_weight_1 : 0.986
+class_weight_0 : 0.014

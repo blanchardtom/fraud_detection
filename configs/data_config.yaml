@@ -1,0 +1,2 @@
+path_data : "$ROOT_DIRECTORY/data/raw"
+test_size : 0.2
